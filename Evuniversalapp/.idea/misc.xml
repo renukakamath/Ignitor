@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_bunk_sharelivelocation.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_bunkhome.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_bunkmanageprofile.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_bunksendcomplaint.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_bunkviewbestplace.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_bunkviewpayment.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_bunkviewrequest.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_delivery_addpouduct.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_delivery_boy_home.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_delivery_viewpayment.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_delivery_viewuser.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_deliverymanageprofile.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_deliverysendcomplaint.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_deliveryviewrequest.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_ipsettings.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_login.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_main.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_mechainc_viewpayment.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_mechanichome.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_mechanicmanageprofile.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_mechanicsendcomplaint.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_mechanicviewrequest.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_mechanicviewuser.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_rateing.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_rateings.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_rechargebunk.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_searchmechanic.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_searchnearbunk.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_sendcomplaint.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_signuphome.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_sparepartsdeliveryboy.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_book_now.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_make_payment.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_mechanic_rating.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_order_now.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_recharge_rating.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_searchmechanic.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_searchnearbunk.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_searchspareparts.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_sendcomplaint.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_viewbookings.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_viewordereditems.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_viewporoduct.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_viewrechargerequests.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_viewrequest.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_user_viewvehicle.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_userhome.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_usermakepayments.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_userprofile.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_userregistration.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_viewbookings.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_viewrechargerequests.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_viewrequest.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/activity_viewvehicle.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/cust_images.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/cust_images1.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/renuk/AndroidStudioProjects/Evuniversalapp/app/src/main/res/layout/custtext.xml" value="0.1308876811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
